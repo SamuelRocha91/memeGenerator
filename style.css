@@ -16,4 +16,7 @@ p {
   position: absolute;
   top: 500px;
   left: 500px;
+  text-shadow: 5px 5px 5px black;
+  font-size: 30px;
+  color: white;
 }

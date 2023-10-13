@@ -1,11 +1,25 @@
 const inputText = document.getElementById('text-input');
 const p = document.getElementById('meme-text');
 const inputFile = document.getElementById('meme-insert');
-const img = document.querySelector('img');
-const fire = document.getElementById('fire');
-const water = document.getElementById('water');
-const earth = document.getElementById('earth');
+
 const MEME_CONTAINER = 'meme-image-container';
+
+function insertImageMeme() {
+  const img = document.getElementById('meme-image');
+
+  document.getElementById('meme-1').addEventListener('click', () => {
+    img.src = 'imgs/meme1.png';
+  });
+  document.getElementById('meme-2').addEventListener('click', () => {
+    img.src = 'imgs/meme2.png';
+  });
+  document.getElementById('meme-3').addEventListener('click', () => {
+    img.src = 'imgs/meme3.png';
+  });
+  document.getElementById('meme-4').addEventListener('click', () => {
+    img.src = 'imgs/meme4.png';
+  });
+}
 
 function insertBorderColor() {
   const container = document.getElementById(MEME_CONTAINER);
@@ -36,6 +50,8 @@ function evento() {
 }
 
 function insertImage() {
+  const img = document.getElementById('meme-image');
+
   return inputFile.addEventListener('change', (event) => {
     console.log(event);
     img.src = URL.createObjectURL(event.target.files[0]);
@@ -47,4 +63,5 @@ window.onload = () => {
   insertImage();
   addColor();
   insertBorderColor();
+  insertImageMeme();
 };

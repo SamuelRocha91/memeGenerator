@@ -1,5 +1,4 @@
 const inputText = document.getElementById('text-input');
-const p = document.getElementById('meme-text');
 const inputFile = document.getElementById('meme-insert');
 
 const MEME_CONTAINER = 'meme-image-container';
@@ -44,6 +43,7 @@ function addColor() {
 }
 
 function evento() {
+  const p = document.getElementById('meme-text');
   return inputText.addEventListener('input', (event) => {
     p.innerText = event.target.value;
   });

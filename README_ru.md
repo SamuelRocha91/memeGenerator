@@ -39,9 +39,10 @@
 
 Вот другие проекты, которые я разработал на начальных этапах своей карьеры разработчика:
 
-- [Проект 1](#) – Краткое описание проекта.
-- [Проект 2](#) – Краткое описание проекта.
-- [Проект 3](#) – Краткое описание проекта.
+- [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ru.md)
+- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ru.md)
+- [Todo List](https://github.com/SamuelRocha91/TodoList/blob/main/README_ru.md)
+- [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_ru.md)
 
 ## Как Запустить
 

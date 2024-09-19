@@ -39,9 +39,10 @@ Durante o desenvolvimento deste projeto, foram aprimoradas as seguintes habilida
 
 Aqui estão outros projetos que desenvolvi durante o início da minha jornada como desenvolvedor:
 
-- [Projeto 1](#) – Descrição breve do projeto.
-- [Projeto 2](#) – Descrição breve do projeto.
-- [Projeto 3](#) – Descrição breve do projeto.
+- [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec)
+- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt)
+- [Todo List](https://github.com/SamuelRocha91/TodoList)
+- [Calculadora](https://github.com/SamuelRocha91/calculator)
 
 ## Como Executar
 

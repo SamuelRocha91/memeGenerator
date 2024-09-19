@@ -39,9 +39,10 @@
 
 فيما يلي مشاريع أخرى قمت بتطويرها في بداية مسيرتي كمطور:
 
-- [مشروع 1](#) – وصف مختصر للمشروع.
-- [مشروع 2](#) – وصف مختصر للمشروع.
-- [مشروع 3](#) – وصف مختصر للمشروع.
+- [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ar.md)
+- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ar.md)
+- [Todo List](https://github.com/SamuelRocha91/TodoList/blob/main/README_ar.md)
+- [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_ar.md)
 
 ## كيفية التشغيل
 

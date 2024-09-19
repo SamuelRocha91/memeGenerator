@@ -39,9 +39,10 @@ Durante el desarrollo de este proyecto, se mejoraron las siguientes habilidades:
 
 Aquí están otros proyectos que desarrollé durante las primeras etapas de mi carrera como desarrollador:
 
-- [Proyecto 1](#) – Breve descripción del proyecto.
-- [Proyecto 2](#) – Breve descripción del proyecto.
-- [Proyecto 3](#) – Breve descripción del proyecto.
+- [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_es.md)
+- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_es.md)
+- [Todo List](https://github.com/SamuelRocha91/TodoList/blob/main/README_es.md)
+- [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_es.md)
 
 ## Cómo Ejecutar
 

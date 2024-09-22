@@ -36,7 +36,7 @@
 - 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ch.md)
 - 📝 [Todo List](https://github.com/SamuelRocha91/TodoList/blob/main/README_ch.md)
 - 🧮 [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_ch.md)
-- 🪐 [Stch Wars Planets](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ar.md)
+- 🪐 [Star Wars Planets](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ch.md)
 
 ## 如何运行
 

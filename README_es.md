@@ -12,11 +12,13 @@
 
 <details>
   <summary><h2>Descripción</h2></summary>
+
   Este es un proyecto extra desarrollado durante el módulo de **Fundamentos** del curso de **Desarrollo Web** de **Trybe**. El objetivo principal fue aplicar y reforzar conceptos de **JavaScript**, **CSS** y **HTML** para crear un generador de memes simple. El proyecto implicó la manipulación de los archivos `script.js`, `index.html` y `style.css`.
 </details>
 
 <details>
   <summary><h2>Lista de Funcionalidades</h2></summary>
+
   La aplicación permite:
   - **Cargar una imagen**: Elige una imagen de tu dispositivo o utiliza una imagen sugerida.
   - **Agregar texto**: Inserta texto personalizado sobre la imagen.
@@ -26,6 +28,7 @@
 
 <details>
   <summary><h2>Competencias Desarrolladas</h2></summary>
+
   Durante el desarrollo de este proyecto, se mejoraron las siguientes habilidades:
   1. Manipulación de elementos en el **DOM**.
   2. Aplicación de **lógica de programación** en un contexto real.
@@ -36,6 +39,7 @@
 
 <details>
   <summary><h2>Otros Proyectos</h2></summary>
+
   Aquí hay otros proyectos que desarrollé al principio de mi carrera como desarrollador:
   - 🖥️ [Conversor de binarios](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_es.md)
   - 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_es.md)
@@ -46,6 +50,7 @@
 
 <details>
   <summary><h2>Instrucciones</h2></summary>
+  
   1. Clona este repositorio:
      ```bash
      git clone https://github.com/SamuelRocha91/memeGenerator.git
